@@ -1,3 +1,7 @@
+/**
+ * @brief LeetCode problem 21 : Merge two sorted SLL
+ * @author apadhi
+ */
 #include <iostream>
 
 using namespace std;
