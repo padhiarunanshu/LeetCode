@@ -1,7 +1,8 @@
 /**
- * @brief LC 21 : Merge two sorted SLL
- * @author apadhi
+ * @brief  : LC 230. Merge two sorted SLL
+ * @author : apadhi
  */
+
 // Definition for a binary tree node.
 struct TreeNode {
     int val;
