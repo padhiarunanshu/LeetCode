@@ -1,6 +1,6 @@
 /**
- * @brief LeetCode problem 21 : Merge two sorted SLL
- * @author apadhi
+ * @brief  : LC 21. Merge two sorted SLL
+ * @author : apadhi
  */
 #include <iostream>
 
