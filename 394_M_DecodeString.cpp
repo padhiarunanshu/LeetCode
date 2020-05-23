@@ -1,5 +1,6 @@
 /**
- * @brief: LC[394] - https://leetcode.com/problems/decode-string/
+ * https://leetcode.com/problems/decode-string/
+ * @brief  : LC 394. Decode String
  * @author : apadhi
  */
 
