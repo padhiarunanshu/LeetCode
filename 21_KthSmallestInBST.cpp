@@ -1,5 +1,5 @@
 /**
- * @brief LeetCode problem 21 : Merge two sorted SLL
+ * @brief LC 21 : Merge two sorted SLL
  * @author apadhi
  */
 // Definition for a binary tree node.
