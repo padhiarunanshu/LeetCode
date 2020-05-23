@@ -1,5 +1,5 @@
 /**
- * @brief LC : OddEven Singly linked list
+ * @brief  : LC 328. OddEven Singly linked list
  * @author : apadhi
  */
 
