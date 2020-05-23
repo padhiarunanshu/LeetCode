@@ -1,5 +1,5 @@
 /**
- * @brief: LC 83 : remove duplicates from a SLL
+ * @brief  : LC 83. Remove Duplicates from Sorted List
  * @author : apadhi
  */
  
