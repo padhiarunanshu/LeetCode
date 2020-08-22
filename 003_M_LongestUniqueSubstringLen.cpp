@@ -20,7 +20,7 @@ public:
         vector<int> count(255, 0);
         count[s[0]] = 1;
         int res = 1;
-
+        // Sliding window technique...
         while(j != sz - 1) {
             if(count[s[j+1]] == 0) {
                 count[s[++j]]++;
